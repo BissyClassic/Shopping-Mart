@@ -20,3 +20,13 @@ This project simulates the experience of shopping online without requiring backe
 🎨 Clean UI with modern styling
 
 ⚡ Fast performance
+
+# Tech Stack
+
+HTML
+
+CSS
+
+JavaScript (Vanilla)
+
+React 
