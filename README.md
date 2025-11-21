@@ -30,3 +30,17 @@ CSS
 JavaScript (Vanilla)
 
 React 
+
+# Screens Included
+
+Home Page
+
+Product Listing Page
+
+Product Details (optional)
+
+Cart Page
+
+Checkout Summary Page
+
+
